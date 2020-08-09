@@ -8,7 +8,7 @@ The project features use of Transfer Learning to save time.
 # Dataset Used:
 For the dataset we used [Prajna](https://github.com/prajnasb)'s Face Mask Detection Dataset and Experiments.
 
-Her dataset looked like this:-
+Here dataset looked like this:-
 
 ## With Mask:
 <img alt="prajna-withmask-image" src="images/prajnaWithMask.png">
